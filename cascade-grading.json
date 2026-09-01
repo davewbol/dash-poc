@@ -2,7 +2,7 @@
   "customer_name": "Cascade Grading Co.",
   "account_owner": "Voze Customer Success",
   "period_label": "Last 30 days",
-  "last_updated": "2026-09-02T06:10:00-06:00",
+  "last_updated": "2026-09-01T14:26:03-06:00",
   "licensed_seats": 50,
   "kpis": {
     "active_field_users": {
@@ -158,63 +158,63 @@
     },
     {
       "date": "2026-08-19",
-      "notes_logged": 74
+      "notes_logged": 148
     },
     {
       "date": "2026-08-20",
-      "notes_logged": 80
+      "notes_logged": 160
     },
     {
       "date": "2026-08-21",
-      "notes_logged": 84
+      "notes_logged": 168
     },
     {
       "date": "2026-08-22",
-      "notes_logged": 28
+      "notes_logged": 56
     },
     {
       "date": "2026-08-23",
-      "notes_logged": 28
+      "notes_logged": 56
     },
     {
       "date": "2026-08-24",
-      "notes_logged": 88
+      "notes_logged": 176
     },
     {
       "date": "2026-08-25",
-      "notes_logged": 78
+      "notes_logged": 156
     },
     {
       "date": "2026-08-26",
-      "notes_logged": 88
+      "notes_logged": 176
     },
     {
       "date": "2026-08-27",
-      "notes_logged": 82
+      "notes_logged": 164
     },
     {
       "date": "2026-08-28",
-      "notes_logged": 82
+      "notes_logged": 164
     },
     {
       "date": "2026-08-29",
-      "notes_logged": 29
+      "notes_logged": 58
     },
     {
       "date": "2026-08-30",
-      "notes_logged": 30
+      "notes_logged": 60
     },
     {
       "date": "2026-08-31",
-      "notes_logged": 93
+      "notes_logged": 186
     },
     {
       "date": "2026-09-01",
-      "notes_logged": 86
+      "notes_logged": 172
     },
     {
       "date": "2026-09-02",
-      "notes_logged": 92
+      "notes_logged": 184
     }
   ]
 }
